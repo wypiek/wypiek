@@ -22,7 +22,9 @@ Most days you'll find me messing around with **Linux**, writing **web apps and l
 
 I like software that's **fast, lightweight, useful, and fun to make**.
 
-### 🧺 the ingredients
+---
+
+### 🧺 the VIBE ingredients <small>(languages i use for vibecoding)
 
 <div align="center">
 
@@ -30,15 +32,24 @@ I like software that's **fast, lightweight, useful, and fun to make**.
 ![Python](https://img.shields.io/badge/Python-30251F?style=for-the-badge&logo=python&logoColor=F2D5AF)
 ![TypeScript](https://img.shields.io/badge/TypeScript-30251F?style=for-the-badge&logo=typescript&logoColor=F2D5AF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-30251F?style=for-the-badge&logo=javascript&logoColor=F2D5AF)
-![HTML5](https://img.shields.io/badge/HTML5-30251F?style=for-the-badge&logo=html5&logoColor=F2D5AF)
 ![CSS3](https://img.shields.io/badge/CSS-30251F?style=for-the-badge&logo=css&logoColor=F2D5AF)
+![SQLite](https://img.shields.io/badge/SQLite-30251F?style=for-the-badge&logo=sqlite&logoColor=F2D5AF)
 
+</div>
+
+---
+
+### 🧺 actual ingredients <small>(what i actually know)
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-765039?style=for-the-badge&logo=html5&logoColor=FFF1DB)
 ![Linux](https://img.shields.io/badge/Linux-765039?style=for-the-badge&logo=linux&logoColor=FFF1DB)
 ![Docker](https://img.shields.io/badge/Docker-765039?style=for-the-badge&logo=docker&logoColor=FFF1DB)
-![SQLite](https://img.shields.io/badge/SQLite-765039?style=for-the-badge&logo=sqlite&logoColor=FFF1DB)
 ![Git](https://img.shields.io/badge/Git-765039?style=for-the-badge&logo=git&logoColor=FFF1DB)
 
 </div>
+
+---
 
 ### 🥖 today's specials
 
@@ -53,10 +64,10 @@ I like software that's **fast, lightweight, useful, and fun to make**.
 
 ```console
 $ whoami
-wypiek
+m5rcel
 
 $ cat interests.txt
-linux  rust  web  self-hosting  retro-tech
+linux  html  web
 
 $ oven --status
 [##########] freshly baked ideas, coming right up
