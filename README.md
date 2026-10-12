@@ -1,88 +1,81 @@
 <div align="center">
 
-<img src="banner.png" alt="MARCEL" width="800"/>
+# 🍞 wypiek
 
+### small batches. clean code. crispy edges.
 
-[![GitHub followers](https://img.shields.io/github/followers/m4rcel-lol?label=Followers&style=flat-square&color=8b5cf6&labelColor=0d1117)](https://github.com/m4rcel-lol)
-![Profile views](https://komarev.com/ghpvc/?username=m4rcel-lol&style=flat-square&color=22d3ee&labelColor=0d1117&label=Profile+Views)
-![Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white&labelColor=0d1117)
+**A little corner of GitHub where ideas rise and projects come out of the oven.**
 
-</div>
-
-<br/>
-
-## About
-
-- Broad-spectrum builder spanning systems programming, web development, and Linux — kernels and compilers one day, full-stack apps the next.
-- Daily-drives Arch Linux on a Lenovo Legion Y7000, with hands-on time across Bazzite, FydeOS, and Alpine too.
-- Believes in production-grade, zero-placeholder code: detailed specs in, finished implementations out.
-- Drawn to retro computing aesthetics — Windows XP/7 chrome, the 2006-era web, and CRT terminal glow.
-- Tinkers with audio synthesis on the side: bytebeat formulas and speech-synth recreations like klattsch.
-- Runs his own infrastructure end to end — mail, git hosting, and a handful of self-hosted services.
-
-<br/>
-
-## Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,rust,python,js,ts,react,nodejs,postgres,docker,bash,linux,git,lua,html,css,vite,kotlin&theme=dark" alt="Tech stack"/>
+[![Made in Poland](https://img.shields.io/badge/BAKED%20IN-POLAND-BB753F?style=for-the-badge&labelColor=30251F)](https://github.com/wypiek)
+[![Open source](https://img.shields.io/badge/RECIPE-OPEN%20SOURCE-E8C59B?style=for-the-badge&labelColor=30251F&color=AB714A)](https://github.com/wypiek?tab=repositories)
+[![Fresh code](https://img.shields.io/badge/STATUS-FRESH%20FROM%20THE%20OVEN-7F9A6A?style=for-the-badge&labelColor=30251F)](https://github.com/wypiek?tab=activity)
 
 </div>
 
-<br/>
+---
 
-## Featured Projects
+### 🥐 hey, i'm wypiek <small>(also known as m5rcel)</small>
 
-| Project | Description | Stack |
-|---|---|---|
-| [**OpenTube**](https://code.european-comission-europa.eu/m4rcel/opentube) | Self-hostable YouTube-style platform with a full transcoding pipeline and a deliberate 2006-era look | Fastify · React · PostgreSQL · FFmpeg |
-| [**CineHorizon**](https://code.european-comission-europa.eu/m4rcel/cinehorizon) | A Netflix clone built to be easy to self-host and manage, with uploads handled through an admin panel | React · Node.js · PostgreSQL · HLS |
-| [**AXON**](https://code.european-comission-europa.eu/m4rcel/axon) | A custom programming language with an LLVM backend, full toolchain, and package manager | LLVM · Compiler Design |
-| [**WinGit**](https://code.european-comission-europa.eu/m4rcel/wingit) | A CLI package manager for Windows | Windows · CLI |
-| [**brewski**](https://code.european-comission-europa.eu/m4rcel/brewski) | A Homebrew-flavored TUI for managing packages on macOS | macOS · Terminal UI |
+I'm a developer from **Poland** who likes building things from scratch, breaking them by accident, and figuring out how to make them better.
 
-*Links assume a `m4rcel` namespace and lowercase repo slugs on the instance — swap in the real ones if any differ.*
+Most days you'll find me messing around with **Linux**, writing **web apps and little tools**, exploring **systems programming**, or self-hosting something that probably didn't need to be self-hosted.
 
-<br/>
+I like software that's **fast, lightweight, useful, and fun to make**.
 
-## GitHub Stats
+### 🧺 the ingredients
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=m4rcel-lol&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rcel-lol&layout=compact&theme=tokyonight&hide_border=true" width="42%"/>
+![Rust](https://img.shields.io/badge/Rust-30251F?style=for-the-badge&logo=rust&logoColor=F2D5AF)
+![Python](https://img.shields.io/badge/Python-30251F?style=for-the-badge&logo=python&logoColor=F2D5AF)
+![TypeScript](https://img.shields.io/badge/TypeScript-30251F?style=for-the-badge&logo=typescript&logoColor=F2D5AF)
+![JavaScript](https://img.shields.io/badge/JavaScript-30251F?style=for-the-badge&logo=javascript&logoColor=F2D5AF)
+![HTML5](https://img.shields.io/badge/HTML5-30251F?style=for-the-badge&logo=html5&logoColor=F2D5AF)
+![CSS3](https://img.shields.io/badge/CSS-30251F?style=for-the-badge&logo=css&logoColor=F2D5AF)
 
-<img src="https://streak-stats.demolab.com?user=m4rcel-lol&theme=tokyonight&hide_border=true" width="100%"/>
+![Linux](https://img.shields.io/badge/Linux-765039?style=for-the-badge&logo=linux&logoColor=FFF1DB)
+![Docker](https://img.shields.io/badge/Docker-765039?style=for-the-badge&logo=docker&logoColor=FFF1DB)
+![SQLite](https://img.shields.io/badge/SQLite-765039?style=for-the-badge&logo=sqlite&logoColor=FFF1DB)
+![Git](https://img.shields.io/badge/Git-765039?style=for-the-badge&logo=git&logoColor=FFF1DB)
 
 </div>
 
-<br/>
+### 🥖 today's specials
 
-## Self-Hosted Infrastructure
+| From the oven | What's inside |
+| :-- | :-- |
+| **Handmade tools** | Small, practical utilities with no unnecessary fluff. |
+| **Self-hosted goodies** | Software you can run and control yourself. |
+| **Web experiments** | Interfaces, weird ideas, and the occasional nostalgic design. |
+| **Systems tinkering** | Linux, low-level stuff, and seeing how things work. |
 
-| Service | Stack | Notes |
-|---|---|---|
-| Git forge | Forgejo | `code.european-comission-europa.eu` — self-hosted home for personal repos and collaboration |
-| Fediverse microblogging | Sharkey | `index.sark` — a fork of Misskey |
+### 🧑‍🍳 the baker's terminal
 
-<br/>
+```console
+$ whoami
+wypiek
 
-## Connect
+$ cat interests.txt
+linux  rust  web  self-hosting  retro-tech
+
+$ oven --status
+[##########] freshly baked ideas, coming right up
+```
+
+### 📜 house recipe
+
+> **Start simple. Make it work. Keep it light. Give it character.**
+>
+> And if it breaks, call it an experimental batch.
+
+---
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-m4rcel--lol-181717?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/m4rcel-lol)
-[![Forgejo](https://img.shields.io/badge/Forgejo-code.european--comission--europa.eu-34495E?style=flat-square&logo=forgejo&logoColor=white&labelColor=0d1117)](https://code.european-comission-europa.eu)
+**Thanks for stopping by the bakery.**
 
-Also runs the **Cirql** community and is currently building **MPCT** (Multi Purpose CLI Tool).
+[**Browse the fresh bakes →**](https://github.com/wypiek?tab=repositories)
 
-</div>
-
-<br/>
-
-<div align="center">
-
-<sub>Thanks for stopping by.</sub>
+<sub>Made with ☕, curiosity, and an unreasonable amount of bread puns.</sub>
 
 </div>
