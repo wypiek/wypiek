@@ -24,7 +24,7 @@ I like software that's **fast, lightweight, useful, and fun to make**.
 
 ---
 
-### 🧺 the VIBE ingredients <small>(languages i use for vibecoding)
+### 🧺 the VIBE ingredients <small>(languages & tools i use for vibecoding)
 
 <div align="center">
 
@@ -39,7 +39,7 @@ I like software that's **fast, lightweight, useful, and fun to make**.
 
 ---
 
-### 🧺 actual ingredients <small>(what i actually know)
+### 🧺 actual ingredients <small>(what i actually know or which tools i know how 2 use)
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-765039?style=for-the-badge&logo=html5&logoColor=FFF1DB)
