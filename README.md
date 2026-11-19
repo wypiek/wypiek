@@ -5,6 +5,7 @@
   <img alt="Commit board animation" src="https://raw.githubusercontent.com/wypiek/commitboard-animations/output/marquee-light.svg">
 </picture>
 
+
 # 🍞 wypiek
 
 ### small batches. clean code. crispy edges.
